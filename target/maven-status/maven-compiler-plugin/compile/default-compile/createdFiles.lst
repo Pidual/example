@@ -1,0 +1,5 @@
+org\distributed\citizens\CitizensApplication.class
+org\distributed\cityzens\models\Person.class
+org\distributed\citizens\controller\UserController.class
+org\distributed\citizens\controller\UserService.class
+org\distributed\citizens\controller\UserDTO.class
